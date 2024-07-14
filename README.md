@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
 
-PriceWise
+
 Price wise is an amazon product price tracking and purchase alert application built with TypeScript, NextJS and MongoDB and Bright Data, A web data extraction service that is very powerful.
 
 Getting Started
