@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+PriceWise
+Price wise is an amazon product price tracking and purchase alert application built with TypeScript, NextJS and MongoDB and Bright Data, A web data extraction service that is very powerful.
+
+Getting Started
+Prerequisites
+Ensure you have the following installed:
+
+Node.js
+npm or yarn
+MongoDB
+Environment Variables
+Create a .env file in the root of your project and add the following environment variables:
+
+plaintext
+Copy code
+BRIGHT_DATA_USERNAME=your_bright_data_username
+BRIGHT_DATA_PASSWORD=your_bright_data_password
+MONGO_URI=your_mongo_db_connection_string
+EMAIL_PASSWORD=your_email_password
