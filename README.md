@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
+
+PriceWise
+Price wise is an amazon product price tracking and purchase alert application built with TypeScript, NextJS and MongoDB and Bright Data, A web data extraction service that is very powerful.
+
+Getting Started
+Prerequisites
+Ensure you have the following installed:
+
+Node.js
+npm or yarn
+MongoDB
+Environment Variables
+Create a .env file in the root of your project and add the following environment variables:
+
+plaintext
+Copy code
+BRIGHT_DATA_USERNAME=your_bright_data_username
+BRIGHT_DATA_PASSWORD=your_bright_data_password
+MONGO_URI=your_mongo_db_connection_string
+EMAIL_PASSWORD=your_email_password
 
 ## Getting Started
 
@@ -35,22 +55,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-PriceWise
-Price wise is an amazon product price tracking and purchase alert application built with TypeScript, NextJS and MongoDB and Bright Data, A web data extraction service that is very powerful.
 
-Getting Started
-Prerequisites
-Ensure you have the following installed:
-
-Node.js
-npm or yarn
-MongoDB
-Environment Variables
-Create a .env file in the root of your project and add the following environment variables:
-
-plaintext
-Copy code
-BRIGHT_DATA_USERNAME=your_bright_data_username
-BRIGHT_DATA_PASSWORD=your_bright_data_password
-MONGO_URI=your_mongo_db_connection_string
-EMAIL_PASSWORD=your_email_password
